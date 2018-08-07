@@ -4,8 +4,7 @@
     <body>
         <p>
             Here is some text!
-            
-         </p>
+        </p>
     </body>
     
 </html>
