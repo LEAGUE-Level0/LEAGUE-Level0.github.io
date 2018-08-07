@@ -9,8 +9,6 @@
 <style>
 body,h1 {font-family: "Raleway", sans-serif}
 </style>
-
-    
 <body>
     <div class="w3-display-topleft w3-padding-large w3-xlarge">
    	  <h1 class="w3-jumbo w3-animate-top">League Level 0   </h1>
