@@ -18,7 +18,6 @@
         <a href="https://league-level0.github.io/"><img src="img/league.jpg" alt="league-logo"></a>
     </div>
     <div id="copyright">
-    <script>copyright();</script>
     </div>
 </body>
 </html>
