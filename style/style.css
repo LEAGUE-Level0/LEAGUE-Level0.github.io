@@ -17,20 +17,21 @@ h1 {
 }
 
 h2 {
-    font-family: verdana;
+    
+    font-family: "Raleway", sans-serif;
     color: #fa591a;
     font-size: 32px;
     text-align: center;
 }
 
 h3 {
-    font-family: verdana;
+    font-family: "Raleway", sans-serif;
     font-size: 24px;
     text-align: center;
 }
 
 h4 {
-    font-family: verdana;
+    font-family: "Raleway", sans-serif;
 }
 
 p {
@@ -94,10 +95,6 @@ hr {
 	padding:1em;
 }
 
-.module h3{
-    font-family: "Raleway", sans-serif;
-}
-
 .overviewModules {
     width: 100%;
     padding:1em;
@@ -153,7 +150,6 @@ hr {
 }
 
 .linkPageBody h3 {
-    font-family: "Raleway", sans-serif;
     padding:.5em;
 } 
 
@@ -164,7 +160,6 @@ hr {
 }
 
 .contributingBody h2 {
-    font-family: "Raleway", sans-serif;
     padding:.5em;
 }
 
@@ -179,12 +174,10 @@ hr {
 }
 
 .moduleIndex h2 {
-    font-family: "Raleway", sans-serif;
     padding:.5em;
 }
 
 .moduleIndex h3 {
-    font-family: "Raleway", sans-serif;
     padding:.5em;
 }
 .moduleIndexColumn {
