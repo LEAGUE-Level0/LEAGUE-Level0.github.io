@@ -1,7 +1,7 @@
-function teacherHeader() {
+function addHeader() {
 var links;
 
-links = document.getElementById("teacherLinks");
+links = document.getElementById("header");
 
 links.innerHTML += "<span>";
 links.innerHTML += "<a href=\"http://www.jointheleague.org\"><img class=\"footer\" src=\"https://league-level0.github.io/league.jpg\" alt=\"league-logo\"></a>";
@@ -12,3 +12,5 @@ links.innerHTML += "<a href=\"https://jtl.pike13.com\"><img class=\"footer\" src
 links.innerHTML += "<a href=\"mailto:curriculum@jointheleague.org\"><img class=\"footer\" src=\"https://league-level0.github.io/suggestions.jpg\" alt=\"Recipe Suggestions\"</a>";  
 links.innerHTML += "</span>";
 }
+
+
